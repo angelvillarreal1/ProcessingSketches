@@ -15,3 +15,9 @@ void setup(){
   text("Math",475,600);
   
 }
+void draw(){
+  print("sup ");
+  fill(219,135,55);
+  ellipse(mouseX,mouseY,50,50);
+
+}
